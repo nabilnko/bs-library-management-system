@@ -107,9 +107,9 @@ Before running this application, ensure you have:
 
 When you run the application, you'll see this interactive menu:
 
-╔════════════════════════════════════════╗
-║ Library Management System v1.0 ║
-╚════════════════════════════════════════╝
+
+Library Management System v1.0
+
 
 Add Book
 
@@ -161,8 +161,8 @@ Enter Member ID: 1
 
 
 ### members.txt
-1,John Doe,john.doe@email.com
-2,Jane Smith,jane.smith@email.com
+1.John Doe,john.doe@email.com
+2.Jane Smith,jane.smith@email.com
 ---
 
 ## 🎯 Key Object-Oriented Concepts
@@ -219,8 +219,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [https://github.com/nabilnko](https://github.com/nabilnko)
+- Email: nabilnko11@gmail.com
 
 ---
 
@@ -229,20 +229,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - Thanks to the Java community for excellent documentation
 - Inspired by real-world library management systems
 - Built as a learning project to demonstrate OOP principles
-
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Email: your.email@example.com
-
----
-
-**⭐ If you find this project helpful, please consider giving it a star!**
-
----
-
-*Last Updated: November 2025*
-
