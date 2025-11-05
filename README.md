@@ -34,25 +34,6 @@ A comprehensive console-based Java application designed to streamline library op
 - No database setup required
 - Persistent data across application sessions
 
----
-
-## 🏗️ Project Architecture
-librarymanagement/
-│
-├── src/
-│ └── librarymanagement/
-│ ├── Book.java → Book entity with properties (title, author, ISBN)
-│ ├── Borrowable.java → Interface defining borrowable behavior
-│ ├── Library.java → Core library operations and business logic
-│ ├── LibraryItem.java → Abstract base class for library items
-│ ├── Main.java → Application entry point with console menu
-│ └── Member.java → Member entity with membership details
-│
-├── books.txt → Persistent storage for book records
-├── members.txt → Persistent storage for member records
-├── .gitignore → Git exclusion rules
-└── README.md → Project documentation
-
 
 ---
 
